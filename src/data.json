@@ -1,0 +1,60 @@
+{
+    "products":
+    [
+        {
+        "_id" : "item1",
+        "title": "ITEM1",
+        "image": "/images/item1.jpg",
+        "description" : "about item",
+        "price": 120,
+        "location": "Dehradun",
+        "contact" : "XXXXXXXX00"
+        },
+        {
+            "_id" : "item2",
+            "title": "ITEM2",
+            "image": "/images/item2.jpg",
+            "description" : "about item",
+            "price": 120,
+            "location": "Dehradun",
+            "contact" : "XXXXXXXX00"
+        },
+        {
+            "_id" : "item3",
+            "title": "ITEM3",
+            "image": "/images/item3.jpg",
+            "description" : "about item",
+            "price": 120,
+            "location": "Dehradun",
+            "contact" : "XXXXXXXX00"
+        },
+        {
+            "_id" : "item4",
+            "title": "ITEM4",
+            "image": "/images/item4.jpg",
+            "description" : "about item",
+            "price": 120,
+            "location": "Dehradun",
+            "contact" : "XXXXXXXX00"
+        },
+        {
+            "_id" : "item5",
+            "title": "ITEM5",
+            "image": "/images/item5.jpg",
+            "description" : "about item",
+            "price": 120,
+            "location": "Dehradun",
+            "contact" : "XXXXXXXX00"
+        },
+        {
+            "_id" : "item6",
+            "title": "ITEM6",
+            "image": "/images/item6.jpg",
+            "description" : "about item",
+            "price": 120,
+            "location": "Dehradun",
+            "contact" : "XXXXXXXX00"
+        }
+
+    ]
+}

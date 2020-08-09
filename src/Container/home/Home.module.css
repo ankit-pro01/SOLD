@@ -1,0 +1,39 @@
+.Container{
+    display: grid;
+    grid-template-rows: 5rem 1fr 5rem;
+    grid-template-columns: 1fr;
+    grid-template-areas: 
+    "Nav"
+    "Main"
+    "Footer";
+    height: 100%;
+}
+
+nav{
+    grid-area: Nav;
+    background-color: #228B22;
+}
+
+main {
+    grid-area: Main;
+
+}
+
+footer{
+    grid-area: Footer;
+    background-color: black;
+    color: wheat;
+}
+
+.content{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.main {
+    flex: "3" "60rem";
+}
+
+.sidebar{
+    flex: "1" "20rem";
+}

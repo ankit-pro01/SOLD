@@ -1,3 +1,3 @@
-export const layout = (props) => {
+export  const Layout = (props) => {
     return (props.children)
 }
